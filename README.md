@@ -9,4 +9,4 @@ default_envs = mks_robin_nano35
 
 *OBS: do NOT use mks_robin_nano35_maple, as there will be a warning during compilation and the final firmware just won't work.
 
-After installing the firmware, it's advisable to run the PID autotune to make the adjustment more toght to your machine.
+After installing the firmware, it's advisable to run the PID autotune to make the adjustment more tight to your machine.
