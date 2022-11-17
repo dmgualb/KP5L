@@ -1,5 +1,5 @@
 # KP5L
-KP5L files for compiling Marlin 
+KP5L files for compiling Marlin 2.1.1
 
 Those have worked for me, use at your own risk
 
