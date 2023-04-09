@@ -19,7 +19,7 @@ Not enabled:
    Babysteps
    Linear advance
    
- The file tft_fsmc.h is patched to avoid SDCARD reading problems with GD32 microcontroller.
+ The file tft_fsmc.cpp is patched to avoid SDCARD reading problems with GD32 microcontroller.
  Instead of using this file, it's better to look and apply the patch from here:
  https://github.com/MarlinFirmware/Marlin/commit/1940418bbe89d07863ed05c6cddb1edf285a5a31
    
